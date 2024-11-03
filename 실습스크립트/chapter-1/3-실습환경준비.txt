@@ -1,3 +1,4 @@
+
 * 실습을 위한 패스 생성 및 이동
     mkdir ~/practice; cd ~/practice
 
